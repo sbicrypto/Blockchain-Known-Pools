@@ -507,6 +507,14 @@
         "/foundry/" : {
             "name" : "Foundry",
             "link" : "https://foundrydigital.com/"
+	},
+        "SBI Crypto": {
+            "name": "SBI Crypto",
+            "link": "https://www.sbicrypto.com"
+        },
+        "SBICrypto": {
+            "name": "SBI Crypto",
+            "link": "https://www.sbicrypto.com"
         }
     },
     "payout_addresses" : {
